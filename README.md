@@ -13,7 +13,7 @@ I'm a **Jnr Software Engineer** passionate about building scalable, efficient, a
   - Created a cross-platform app using **React Native** (EXPO) with full-stack integration.
   - Implemented **Firebase Authentication** for user management and **MongoDB** for scalable data storage.
 
-- **HappyPaws Pet Adoption Platform**  
+- **HappyPaws AI Pet Adoption Platform**  
   - Developed a pet adoption app using **React** and **Express** with AI-powered pet recommendations.
   - Added user authentication with **Passport.js** and optimized app performance through caching.
 
