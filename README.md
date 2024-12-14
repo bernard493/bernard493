@@ -20,7 +20,7 @@ I'm a **Jnr Software Engineer** passionate about building scalable, efficient, a
 ### 📚 Education
 
 - **Artificial Intelligence** | BrainStation, London, UK  
-  *NOV 2024 - Present*  
+  *NOV 2024 - DEC 2014*  
 
 - **Software Engineering** | BrainStation, London, UK  
   *JAN 2024 - OCT 2024*  
