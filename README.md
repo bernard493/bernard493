@@ -16,6 +16,17 @@ I'm a **Jnr Software Engineer** passionate about building scalable, efficient, a
 - **HappyPaws AI Pet Adoption Platform**  
   - Developed a pet adoption app using **React** and **Express** with AI-powered pet recommendations.
   - Added user authentication with **Passport.js** and optimized app performance through caching.
+ 
+
+### Experience
+
+- **Frontend Developer   |  Agocarry Technology**
+
+**JUN  2020  - JAN 2022,  ACCRA , GH**
+
+- Developed clean, high-quality, testable code for responsive web applications using **React/React Native, MUI, and JavaScript/TypeScript, with Tailwind CSS and SASS** for efficient styling.
+- Built and maintained reusable dynamic features with **React.js and Redux**, integrating **Firebase** and **REST APIs** for future use.
+- Translated user needs into functional applications by collaborating on cross-platform apps, driving projects from concept to MVP 
 
 ### 📚 Education
 
