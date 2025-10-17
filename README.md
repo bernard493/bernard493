@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Bernard Ayamboro
 
-I'm a **Jnr Software Engineer** passionate about building scalable, efficient, and secure applications. With expertise in full-stack development, I create seamless user experiences across web and mobile platforms. Based in **Chelmsford, UK**, I am motivated to collaborate on projects that leverage the latest technologies to solve real-world challenges.
+I'm a **Software Engineer** passionate about building scalable, efficient, and secure applications. With expertise in full-stack development, I create seamless user experiences across web and mobile platforms. Based in **Chelmsford, UK**, I am motivated to collaborate on projects that leverage the latest technologies to solve real-world challenges.
 
 
 ### 🚀 Projects
@@ -19,6 +19,18 @@ I'm a **Jnr Software Engineer** passionate about building scalable, efficient, a
  
 
 ### Experience
+- **Software Engineer   |  The LEGO Group**
+
+**FEB 2025 - PRESENT,  LONDON , UK**
+
+- Design, develop, and maintain scalable backend services that power LEGO’s global digital experiences.
+- Build and optimize efficient APIs to support web and mobile applications across multiple platforms.
+- Collaborate with cross-functional teams including product, design, and data to improve system performance and user satisfaction.
+- Integrate data engineering practices to streamline data flows and support data-driven features and decision-making.
+- Apply industry best practices in testing, security, observability, and performance optimization to ensure reliable and maintainable codebases.
+- Led the migration of a machine learning model from a legacy engine to a new modernized MLOps pipeline, ensuring better scalability and maintainability.
+- Developed robust data ingestion workflows, enabling efficient storage, processing, and retrieval of ML-driven insights.
+- Worked on serving ML model outputs through APIs, making predictions and data easily consumable by downstream services and applications.
 
 - **Frontend Developer   |  Agocarry Technology**
 
